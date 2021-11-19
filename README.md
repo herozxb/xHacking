@@ -5,6 +5,10 @@ This patch can be used to allow windowed mode to maximize the window to the spec
 
 It will create a copy of the Roller Coaster Tycoon executable file, and it will not modify the original executable, so you needn't worry about breaking your base installation.
 
+# Ghidra use case
+* Get the algorithm
+* path the parameter of the function
+
 # Video Tutorial
 For a full walkthrough of how this patch was created, and a general introduction to reverse engineering and game patching, see the accompanying video:
 
